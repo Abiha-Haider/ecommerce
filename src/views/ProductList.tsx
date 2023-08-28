@@ -9,7 +9,7 @@ import Link from "next/link";
 
 const ProductList = () => {
   return (
-    <div>
+    <div className="mb-20 mx-auto">
       <div className=" lg:mt-10 lg:p-10 lg:ml-40 lg:mr-40 justify-items-center ">
         <p className="text-md font-semibold lg:pl-60 lg:ml-20 justify-center mt-5">
           {" "}
